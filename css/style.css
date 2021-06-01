@@ -509,23 +509,23 @@ section {
     
 .flavors .productpics .container {
   
-    width: 70px;
+    width: 100px;
    
 }
 
 .flavors .productpics .container .imgcontainer  {
    
-    height: 70px;
+    height: 100px;
 
 }
 
 
 .products .productpics .container {
-    width: 70px;
+    width: 100px;
 }
 
 .products .productpics .container .imgcontainer {
-    height: 70px;
+    height: 100px;
 }
 
 
