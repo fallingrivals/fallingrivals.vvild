@@ -506,9 +506,9 @@ section {
         height: 200px;
     }
 
-    
+   
 .flavors .productpics .container {
-  
+    border: 5px solid #fff;
     width: 100px;
    
 }
@@ -522,11 +522,10 @@ section {
 
 .products .productpics .container {
     width: 100px;
+    border: 5px solid #fff;
 }
 
 .products .productpics .container .imgcontainer {
     height: 100px;
 }
-
-
 }
